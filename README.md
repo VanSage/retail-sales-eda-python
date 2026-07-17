@@ -3,7 +3,7 @@
 > **Transforming retail transaction data into actionable business insights using Python and Exploratory Data Analysis.**
 
 ---
-
+ 
 # Background & Business Overview
 
 Retail businesses generate thousands of transactions every day, capturing valuable information about customer behavior, product performance, payment preferences, and sales trends. However, raw transactional data alone does not provide meaningful insights unless it is cleaned, analyzed, and interpreted effectively.
